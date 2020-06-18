@@ -1,0 +1,237 @@
+body {
+  background-color: #FFFF;
+}
+
+.cartop1 img {
+  width: 100%;
+  height: 95px;
+}
+
+.plainrow{
+  height:30px;
+}
+
+.midrow2 {
+  margin-bottom: 2px;
+  margin-left: 10px;
+}
+
+.midrow2 button {
+  margin-left: 60px;
+}
+
+.homebrandimage img {
+  width: 90px;
+  height: 90px;
+}
+
+.topsearch {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.topsearch input {
+  background-color: #F2EFFF;
+}
+
+.signin p {
+  text-align: justify;
+  margin-top: 30px;
+}
+
+.bag p {
+  text-align: justify;
+  margin-top: 30px;
+}
+
+.topmenurow {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.topmenurow a {
+  text-align: center;
+  padding-right: 20px;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbarlist {
+  margin-left: 70px;
+}
+
+.thirdsec {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.thirdsec p {
+  margin-bottom: 0;
+}
+
+.fourthsec {
+  background-color: #e7305b;
+  color: #f7f7ee;
+  font-size: 50px;
+}
+
+.fourthsec p {
+  margin-left: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.fourthsec button {
+  margin-left: 500px;
+  margin-bottom: 20px;
+}
+
+.plainrow {
+  background-color: #ececec;
+  height: 40px;
+  margin-bottom: 0;
+}
+
+.sixthrow {
+  margin-left: 10px;
+  margin-bottom: 0;
+}
+
+.sixthrow img {
+  margin-left: 5px;
+  margin-right: 50px;
+}
+
+.seventhrow {
+  margin-top: 0;
+  margin-left: 10px;
+}
+
+.midrow3 p {
+  padding-left: 20px;
+  font-weight: 600;
+  color: #2C163D;
+  font-size: 16px;
+}
+
+.midrow3img img {
+  margin-left: 150px;
+}
+
+.midrow3_1 p {
+  font-weight: 600;
+  color: #2C163D;
+  font-size: 14px;
+  margin-left: 0;
+}
+
+.midrow3_2 p {
+  font-weight: 600;
+  color: #2C163D;
+  font-size: 14px;
+  margin-left: 150px;
+}
+
+.midrow3_3 img {
+  margin-left: 150px;
+}
+
+.mid3lastcol {
+  margin-top: 0;
+}
+
+.mid3lastcol img {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.homegarden {
+  text-align: left;
+  background-color: #f2f2f0;
+  color: black;
+  padding-left: 40px;
+  padding-top: 0;
+  height: 30px;
+  padding-bottom: 0;
+}
+
+.homegarden p {
+  background-color: #f2f2f0;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: 700;
+}
+
+.homegarden button {
+  margin-bottom: 0;
+  margin-left: 30px;
+  padding-right: 20px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.carousel2 {
+  background-color: #c1c1c1;
+  margin-top: 30px;
+}
+
+.emailrow {
+  background-color: #dfdfdf;
+}
+
+.emailrow p {
+  background-color: #dfdfdf;
+}
+
+.emailrow input {
+  position: relative;
+  border: 1px solid #B9ADDB;
+  border-radius: 3px;
+  font-size: 14px;
+  padding: 7px 65px 7px 9px;
+  margin-top: 10px;
+  background-color: #FFFFFF;
+}
+
+.emailrow button {
+  background-color: #492565;
+  border-radius: 3px;
+  border: 1px solid #492565;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.sectionclass {
+  background-color: #dfdfdf;
+}
+
+.sectionclass_1 {
+  margin-left: 20px;
+  margin-right: 60px;
+  margin-top: 20px;
+}
+
+.sectionclass_1 ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.sectionclass_1 a {
+  background-color: transparent;
+  text-decoration: none;
+  color: #2C163D;
+}
+
+.homebottom {
+  background-color: #dfdfdf;
+}
+
+.homebottom p{
+font-size:13px; 
+margin-left:25px;
+}
